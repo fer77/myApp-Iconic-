@@ -1,0 +1,29 @@
+/* Empty. Add your own CSS if you like */
+
+/*default colors:
+
+$light:                           #fff !default;
+$stable:                          #f8f8f8 !default;
+$positive:                        #387ef5 !default;
+$calm:                            #11c1f3 !default;
+$balanced:                        #33cd5f !default;
+$energized:                       #ffc900 !default;
+$assertive:                       #ef473a !default;
+$royal:                           #886aea !default;
+$dark:                            #444 !default;*/
+
+/*The path forionicons font files*/
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+/*Include all of Ionic*/
+@import "www/lib/ionic/scss/ionic";
+ion-content {
+    background: url(http://opip0g.blu.livefilestore.com/y1pMVgo753MMS3Fkae9Qv9u0k_-jpmiAZGuIiWGq6VC8XaAZ4DxMPLf4i-bG5XNMDeEeFq2of_onPyeWBXOQ0T8Ifh9VnU9j8MY/habits%20wordle.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-position: center;
+    width: 80%;
+    height: 246px;
+    margin: auto;
+    z-index: 2;
+    position: relative;*/
+}
